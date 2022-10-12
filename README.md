@@ -1,8 +1,14 @@
 # Expenses-Tracker-app
 
-A React app for tracking yearly expenses history, based on the course "React - The complete guide" taught by "Maximilian Schwarzmüller" focused on React basics, JSX, props, state, components bottom-down/up communication, composition and working with events.
-
-![image](https://user-images.githubusercontent.com/73782770/195066696-b1703e4e-72f2-4cea-acd7-bea3b6f9940e.png)
+A React app for tracking yearly expenses history, based on the course "React - The complete guide" trained by "Maximilian Schwarzmüller" focused on React basics, JSX, props, state, components bottom-down/up communication, composition and working with events.
 
 
-![image](https://user-images.githubusercontent.com/73782770/195067774-dc6f17ca-e3bb-4133-8c9d-429f206969ad.png)
+## App snapshots:
+
+
+![delete me2](https://user-images.githubusercontent.com/73782770/195298877-cc32aa11-7faf-4dfd-b7a1-3cd50524e24b.png)
+
+
+![delete me](https://user-images.githubusercontent.com/73782770/195297874-546768a0-5ccf-400c-b323-d44c215ad291.png)
+
+
